@@ -1,4 +1,4 @@
-# 💼 Paylitics - Employee Salary Predictor
+# 💼 Paylytics - Employee Salary Predictor
 
 An AI-powered web application that predicts employee salaries based on various attributes using Random Forest ML Algorithm model.
 
